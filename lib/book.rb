@@ -24,6 +24,10 @@ class Book
     @genre
   end
   
+  def turn_page
+    puts "flipping the page...WOW, you read
+    fast!"
+  end 
   
 
 end
